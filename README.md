@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaziaNetwork
-- 👀 I’m interested in phar and minecraft code
-- 🌱 I’m currently learning php and phar
+- 👀 I’m interested coding in pocketmine(php) and minecraft(c++)
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on minecraft bedrock
 - 📫 How to reach me A2LS@Playhive.tk
 
