@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @FaziaNetwork
-- 👀 I’m interested in phar and minecraft code
-- 🌱 I’m currently learning php and phar
-- 💞️ I’m looking to collaborate on minecraft bedrock
-- 📫 How to reach me A2LS@Playhive.tk
+- 👀 I’m interested in cpp and php
+- 🌱 I’m currently learning php and cpp
+- 📫 How to reach me Janne.karppinen@faziainc.com
 
 <!---
 FaziaNetwork/FaziaNetwork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
